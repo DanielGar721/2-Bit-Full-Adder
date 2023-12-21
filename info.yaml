@@ -28,7 +28,7 @@ documentation:
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
-      The circuit adds two one big signals. It has carry in which is another 1 big signal.
+      The circuit adds two one bit singals. It has carry in which is another 1 bit singal.
       The outputs are carry out and sum.
 
 # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
